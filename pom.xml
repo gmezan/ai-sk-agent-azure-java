@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.gmezan.ai</groupId>
     <artifactId>sk-agent</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <name>sk-agent</name>
     <description>sk-agent</description>
     <url/>
